@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+body > header {
+    padding: 16px;
+    background-color: dodgerblue;
+    color: white;
+}
+
+header > nav > ul {
+    list-style: none;
+}
+#password{
+    list-style: none;
+}
+
+header > nav > ul > li > a {
+    color: white;
+}
+
+#logo{
+    color: white;
+}
+
+
+/* main > header > nav > ul > li {
+    list-style: none; */
+/* } */
